@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b4d2ea4-796b-4d97-8516-65a08cd791e4": {
+      "ProjectGuid": "0b4d2ea4-796b-4d97-8516-65a08cd791e4",
+      "DisplayName": "Tune Player",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
